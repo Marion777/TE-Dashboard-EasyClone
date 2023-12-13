@@ -2,7 +2,7 @@
 
 # Welcome to ThousandEyes Dashboard Easy-Clone 
 
-On this Python Script I am trying to ease the process of Duplicating dashboard within and from different Thousand Organizations 
+On this Python Script I am trying to ease the process of Duplicating dashboard within and from different ThousandEyes Organizations 
 
 # What this script can do:
 
