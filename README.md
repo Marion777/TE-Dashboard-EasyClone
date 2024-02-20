@@ -49,6 +49,7 @@ Clone Dashboard from one account group to:
 - If you are ushing the script to many OrgID only the result of the last ORGID added will be shown 
 
 # Things to be aware
+Some Widgets that are not updated, not anymore available on TE dashboard can fail the cloning. However the error will direct you to the object/widget that need to be updated or removed in order to make a successful clone.
 After pushing this command on the Project folder will be created some files containing data about all the processes where you can get more valuable information!
 
 Enjoy :) 
