@@ -1,5 +1,5 @@
 # TE-Dashboard-EasyClone
-by Marion Kazazi - Thousandeyes Adoption Engineer 
+by Marion Kazazi - ThousandEyes Adoption Engineer 
 
 # Welcome to ThousandEyes Dashboard Easy-Clone 
 
